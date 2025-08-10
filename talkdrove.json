@@ -9,16 +9,16 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. It starts with malvin~",
+        "description"malvin~QmlVwRQD#yFZcvsqcN3ukkH3URrv_LtpXpksOWQiZfZI2FvCPpfM"Put your SESSION_ID here. It starts with malvin~",
         "value":"",
         "required": true
         
       },
       
     "OWNER_NUMBER": {
-      "description": "Enter owner number",
+      "description": "2250715405077",
       "required": true,
-      "value": "263714757857"
+      "value": "2250715405077"
       
        },
       "TIMEZONE": {
